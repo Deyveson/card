@@ -1,0 +1,73 @@
+body {
+    background-color: #FFFFFF;
+}
+.card {
+    border-radius: 0;
+    margin: 10px auto;
+    width: 900px;
+    height: 150px;
+}
+.card-title {
+    width: 330.7px;
+    height: 20px;
+    font-family: Roboto;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+}
+.card-text {
+    margin-top: 30px;
+    background-color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 14px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #00304b;
+}
+.card-model{
+    font-family: Roboto;
+    font-size: 12px;
+    color: #00304b;
+    margin-top: -10px;
+    width: 373.9px;
+    height: 26px;
+    border-radius: 3px;
+    background-color: rgba(176, 190, 197, 0.16);
+}
+.img {
+    width: 158px;
+    height: 115px;
+    max-width: 100%;
+}
+.card-estoque{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: normal;
+    color: #00304b;
+    margin-top: 22px;
+    margin-bottom: -5px;
+    margin-left: 70px;
+}
+.card-preco{
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: condensed;
+    line-height: 1.14;
+    letter-spacing: normal;
+    color: #00304b;
+    margin-left: 65px;
+}
+.card-comprar{
+    margin-top: 90px;   
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: bold;
+    color: #9ccb51;
+}
